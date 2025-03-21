@@ -1,5 +1,5 @@
 // src/mocks/mockingUsers.js
-const faker = require('faker');
+const faker = require('@faker-js/faker');
 const bcrypt = require('bcrypt');
 
 const generateUsers = async (count) => {

@@ -1,5 +1,5 @@
 // src/mocks/mockingPets.js
-const faker = require('faker');
+const faker = require('@faker-js/faker');
 
 /**
  * Genera una lista de mascotas con el formato de MongoDB.
